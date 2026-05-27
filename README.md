@@ -1,2 +1,4 @@
 # Project-Euler
-My solutions tp and attempts at Project Euler problems
+My solutions to and attempts at Project Euler problems.
+
+For information about Project Euler, see here: https://projecteuler.net/
